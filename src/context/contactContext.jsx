@@ -22,5 +22,15 @@ export const ContactProvider = ({ children }) => {
       contact.id === updatedContact.id ? updatedContact : contact
     ));
   };
+  const deleteContact = (id) => {
+    setContacts(contacts.filter(contact => contact.id !== id));
+  };
 
-}
+  return (
+    <ContactContext.Provider value={{ contacts, addContact, updateContact, deleteContact }}>
+      {children}
+    </ContactContext.Provider>
+  );
+};
+
+export default ContactContext;
