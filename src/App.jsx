@@ -8,7 +8,7 @@ import LoginPage from './pages/LoginPage';
 import ContactManager from './pages/ContactManager';
  // Corrected spelling if necessary
 import { ContactProvider } from './context/contactContext';
-import AddContact from './components/AddContectForm';
+import AddContact from './components/AddContactForm';
 import EditContact from './components/EditContectForm';
 
 function App() {
