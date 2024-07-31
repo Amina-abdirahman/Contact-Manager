@@ -31,7 +31,6 @@ The Contact Manager is a simple web application that allows users to manage thei
 - React Router
 - Axios
 - Tailwind CSS
-- Node.js (for the backend API)
 
 ## Getting Started
 
