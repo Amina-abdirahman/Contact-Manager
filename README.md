@@ -16,6 +16,13 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+- ![image](https://github.com/user-attachments/assets/41fd51a6-a186-4765-b6c4-ef709c17af3d)
+- ![image](https://github.com/user-attachments/assets/5afc946d-06a3-48f2-b753-02779c0dd4e8)
+- ![image](https://github.com/user-attachments/assets/92ea1e0e-5178-415a-833a-75aba2c32336)
+- ![image](https://github.com/user-attachments/assets/90777358-6263-4993-8fe4-8dc4d2086fae)
+- ![image](https://github.com/user-attachments/assets/a7e8fef6-d8fe-48ce-845e-06f45ccf6ba8)
+
+
 ## Introduction
 The Contact Manager is a simple web application that allows users to manage their contacts. Users can add, edit, and delete contacts, with the contact information being stored locally in the browser's local storage or on a backend server.
 
